@@ -65,11 +65,7 @@ email: jack2.watson@live.uwe.ac.uk
 
 # Members information. Shown on About page.
 members:
-<<<<<<< HEAD
   - name: Jack Watson
-=======
-  - name: Jack Watson
->>>>>>> 0def496ad72de79ae6c6ace277a7d03c6bec1046
     position: Student
     text: 
     img: profile_1.jpg
