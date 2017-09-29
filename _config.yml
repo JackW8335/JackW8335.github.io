@@ -1,10 +1,10 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: My Portfolio
+title: UWEGAMES
 description: "Games development from an elder's persepective."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/solid-jekyll" #important: start with /
+baseurl: /
 url: "https://jackw8335.github.io/solid-jekyll"
 
 # Build settings
@@ -63,8 +63,8 @@ email: jack2.watson@live.uwe.ac.uk
 
 # Members information. Shown on About page.
 members:
-  - name: Jack watson
-    position: Student
+  - name: Jack Watson
+    position: Da Man!
     text: I am a keen and passionate games developer, whose love of programming extends to mentoring others to allow them to develop games for themselves.
     img: profile_1.jpg
     social:
@@ -74,4 +74,4 @@ members:
         url: 
  
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: ""
+about: "Those who can do and those who can't teach games design."
