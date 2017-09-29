@@ -73,8 +73,8 @@ members:
 =======
   - name: Jack Watson
 >>>>>>> 0def496ad72de79ae6c6ace277a7d03c6bec1046
-    position: Da Man!
-    text: I am a keen and passionate games developer, whose love of programming extends to mentoring others to allow them to develop games for themselves.
+    position: Student
+    text: 
     img: profile_1.jpg
     social:
       - title: envelope #use for email address
