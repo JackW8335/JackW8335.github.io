@@ -4,13 +4,10 @@
 title: UWEGAMES
 description: "Games development from an elder's persepective."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-<<<<<<< HEAD
-baseurl: "/solid-jekyll" #important: start with /
-url: "https://jackw8335.github.io/solid-jekyll"
-=======
+
 baseurl: /
 url: "https://jackw8335.github.io"
->>>>>>> 0def496ad72de79ae6c6ace277a7d03c6bec1046
+
 
 # Build settings
 highlighter: rouge
