@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: My Portfolio
+title: UWEGAMES
 description: "Games development from an elder's persepective."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/solid-jekyll" #important: start with /
-url: "https://JackW8335.github.io/"
+url: "https://HuxyUK.github.io/solid-jekyll"
 
 # Build settings
 highlighter: rouge
@@ -55,7 +55,7 @@ address:
     - University of the West of England,
     - Frenchay Campus, Bristol, BS16 1QY,
     - United Kingdom.
-email: jack2.watson@live.uwe.ac.uk
+email: james2.huxtable@uwe.ac.uk
 
 
 
@@ -63,15 +63,15 @@ email: jack2.watson@live.uwe.ac.uk
 
 # Members information. Shown on About page.
 members:
-  - name: Jack watson
-    position: Student
+  - name: James Huxtable
+    position: Da Man!
     text: I am a keen and passionate games developer, whose love of programming extends to mentoring others to allow them to develop games for themselves.
     img: profile_1.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:jack2.watson@live.uwe.ac.uk
+        url: mailto:james2.huxtable@uwe.ac.uk
       - title: twitter
-        url: 
+        url: http://twitter.com/HuxyUK
  
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: ""
+about: "Those who can do and those who can't teach games design."
