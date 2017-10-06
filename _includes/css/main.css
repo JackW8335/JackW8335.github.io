@@ -22,7 +22,7 @@
 	} 
 
 body { 
-	background: #00FF00; 
+	background: #ff0000; 
 	margin: 0; 
 	height: 100%; 
 	color: {{ site.colors.secondary }};
@@ -79,12 +79,12 @@ a:focus {
 }
 
 ::-moz-selection  {
-	color: #fff;
+	color: #ff0000;
 	text-shadow:none;
 	background:{{ site.colors.secondary }};
 }
 ::selection {
-	color: #fff;
+	color: #ff0000;
 	text-shadow:none;
 	background:{{ site.colors.secondary }};
 }
@@ -142,7 +142,7 @@ a:focus {
 }
 
 .btn-theme {
-  color: #fff;
+  color:#ff0000;
   background-color: {{ site.colors.secondary }};
   border-color: {{ site.colors.secondary }};
   margin: 4px;
@@ -152,7 +152,7 @@ a:focus {
 .btn-theme:active,
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
-  color: #fff;
+  color: #ff0000;
   background-color: {{ site.colors.primary }};
   border-color: {{ site.colors.primary }};
 }
@@ -160,7 +160,7 @@ a:focus {
 .dmbutton:hover,
 .dmbutton:active,
 .dmbutton:focus{
-	color: #ffffff;
+	color: #ff0000;
 	background-color: #222222;
 	border-color: #ffffff;
 }
