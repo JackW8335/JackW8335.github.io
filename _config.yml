@@ -19,13 +19,13 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#8D2305" #"#F70031"
-  primary_rgb: "141,35,5" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#1E434C" #"#33004D"
-  link: "#9B4F0F"
-  link_hover: "#E5B77A"
-  footer_heading: "#C99E10"
-  footer_content: "#E5B77A"
+  primary: "#2FA300" #"#F70031"
+  primary_rgb: "47,163,0" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#324851" #"#33004D"
+  link: "#2FA300"
+  link_hover: "#2FA300"
+  footer_heading: "#2FA300"
+  footer_content: "#2FA300"
 
 # Making projects separate from posts
 collections:
