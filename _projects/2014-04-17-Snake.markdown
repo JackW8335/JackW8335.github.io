@@ -4,7 +4,7 @@ title:  "SNAKE"
 date:   2017-10-06 9:53:55
 author: Jack Watson
 categories:
-- project
+- Low Level Programming
 img: snake.jpg
 thumb: thumb01.jpg
 carousel:
