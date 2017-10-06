@@ -2,7 +2,7 @@
 layout: project
 title:  "SNAKE"
 date:   2017-10-06 9:53:55
-author: Marcel Newman
+author: Jack Watson
 categories:
 - project
 img: portfolio_01.jpg
