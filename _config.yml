@@ -24,7 +24,7 @@ colors:  #in hex code if not noted else
   secondary: "#FF0000" #"#33004D"
   link: "#FF0000"
   link_hover: "#FF0000"
-  footer_heading: "#FF0000"
+  footer_heading: "#FFFFFF"
   footer_content: "#FFFFFF"
 
 # Making projects separate from posts
