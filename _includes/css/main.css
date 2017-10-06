@@ -79,12 +79,12 @@ a:focus {
 }
 
 ::-moz-selection  {
-	color: #ffffff;
+	color: #ff0000;
 	text-shadow:none;
 	background:{{ site.colors.secondary }};
 }
 ::selection {
-	color: #ff0000;
+	color: #ffffff;
 	text-shadow:none;
 	background:{{ site.colors.secondary }};
 }
