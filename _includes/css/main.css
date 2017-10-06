@@ -22,7 +22,7 @@
 	} 
 
 body { 
-	background: #ff0000; 
+	background: #ffffff; 
 	margin: 0; 
 	height: 100%; 
 	color: {{ site.colors.secondary }};
@@ -142,7 +142,7 @@ a:focus {
 }
 
 .btn-theme {
-  color:#ff0000;
+  color:#ffffff;
   background-color: {{ site.colors.secondary }};
   border-color: {{ site.colors.secondary }};
   margin: 4px;
@@ -152,7 +152,7 @@ a:focus {
 .btn-theme:active,
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
-  color: #ff0000;
+  color: #ffffff;
   background-color: {{ site.colors.primary }};
   border-color: {{ site.colors.primary }};
 }
