@@ -22,7 +22,7 @@
 	} 
 
 body { 
-	background: #ff0000; 
+	background: #ffffff; 
 	margin: 0; 
 	height: 100%; 
 	color: {{ site.colors.secondary }};
@@ -79,12 +79,12 @@ a:focus {
 }
 
 ::-moz-selection  {
-	color: #ff0000;
+	color: #ffffff;
 	text-shadow:none;
 	background:{{ site.colors.secondary }};
 }
 ::selection {
-	color: #ff0000;
+	color: #ffffff;
 	text-shadow:none;
 	background:{{ site.colors.secondary }};
 }
@@ -161,7 +161,7 @@ a:focus {
 .dmbutton:active,
 .dmbutton:focus{
 	color: #ff0000;
-	background-color: #222222;
+	background-color: #ffffff;
 	border-color: #ffffff;
 }
 .dmbutton {
