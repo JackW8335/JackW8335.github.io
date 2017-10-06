@@ -1,12 +1,12 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
-date:   2014-04-25 16:54:46
+title:  "SNAKE"
+date:   2017-10-06 9:53:55
 author: Marcel Newman
 categories:
 - project
-img: portfolio_08.jpg
-thumb: thumb02.jpg
+img: portfolio_01.jpg
+thumb: thumb01.jpg
 carousel:
 - single01.jpg
 - single02.jpg
