@@ -332,12 +332,12 @@ a:focus {
 
 #twrap i {
 	font-size: 50px;
-	color: white;
+	color: red;
 	margin-bottom: 25px;
 }
 
 #twrap p {
-	color: white;
+	color: red;
 	font-size: 15px;
 	line-height: 30px;
 }
@@ -393,7 +393,7 @@ a:focus {
 }
 
 #blue h3 {
-	color: white;
+	color: red;
 	margin-left: 15px;
 }
 
