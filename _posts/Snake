@@ -1,1 +1,16 @@
+---
+layout: post          #important: don't change this
+title: "Snake"
+date: 2017-10-06 10:51
+author: Jack Watson
+categories:
+- blog                #important: leave this here
+- category1
+- category2
+- ...
+img: post01.jpg       #place image (850x450) with this name in /assets/img/blog/
+thumb: thumb01.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
+---
 
+<!--more-->
+This text will not be shown in the excerpt because it is after the excerpt separator.
