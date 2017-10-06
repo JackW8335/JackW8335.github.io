@@ -84,7 +84,7 @@ a:focus {
 	background:{{ site.colors.secondary }};
 }
 ::selection {
-	color: #ffffff;
+	color: #ff0000;
 	text-shadow:none;
 	background:{{ site.colors.secondary }};
 }
