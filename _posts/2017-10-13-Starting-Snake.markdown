@@ -1,6 +1,6 @@
 ---
 layout: post          #important: don't change this
-title: "Implementation"
+title: "Starting Snake"
 date: 2017-10-06 10:51
 author: Jack Watson
 categories:
