@@ -16,5 +16,5 @@ Beginning with a simple design ill make a uml diagram on the initial objects tha
 
 [test](https://github.com/JackW8335/JackW8335.github.io/blob/master/assets/img/blog/thumbs/thumb02.jpg)
 [UML](https://github.com/JackW8335/JackW8335.github.io/blob/master/assets/img/blog/snakeUML.png)
-
+![UML]({{ "JackW8335.github.io/assets/img/blog/snakeUML.png" | absolute_url }})
 
