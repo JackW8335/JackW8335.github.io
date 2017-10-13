@@ -7,6 +7,7 @@ categories:
 - Low Level Programming             #important: leave this here
 - Snake
 img: snake.jpg       #place image (850x450) with this name in /assets/img/blog/
+img: snakeUML.png
 thumb: snake.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
 ---
 
