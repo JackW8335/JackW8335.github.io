@@ -18,4 +18,4 @@ I was able to run it at the same speed on my computer aswell as my laptop.
 Now I can start working on the snake body. My current plan is to save the previous position of the player and other parts of the snake 
 so that every update they move the previous position. In theory this means the snake body should follow the next part along starting
 with the head.
-![Snake using delta-time](https://gyazo.com/31fcc8a345abf82696070b73a1503655)
+![Snake using delta-time](https://media.giphy.com/media/3ohjV4P7fC9GYFoMJa/giphy.gif)
