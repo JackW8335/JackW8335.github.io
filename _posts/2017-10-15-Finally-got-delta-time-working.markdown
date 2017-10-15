@@ -22,4 +22,4 @@ with the head.
 
 
 
-![Snake using delta-time](https://media.giphy.com/media/3ohjV4P7fC9GYFoMJa/giphy.gif)
+![Snake using delta-time](https://github.com/JackW8335/JackW8335.github.io/blob/master/assets/img/blog/snake.gif)
