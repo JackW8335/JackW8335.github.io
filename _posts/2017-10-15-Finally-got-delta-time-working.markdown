@@ -19,5 +19,5 @@ with the head.
 
 
 
+![Snake]({{ "/assets/img/blog/snake.gif" | absolute_url }})
 
-![Snake using delta-time](https://github.com/JackW8335/JackW8335.github.io/blob/master/assets/img/blog/snake.gif)
