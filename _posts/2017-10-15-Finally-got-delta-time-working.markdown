@@ -11,7 +11,7 @@ thumb: snake.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/
 ---
 
 <!--more-->
-I was trying to use a private object inside of the game class, this resulted in delta_time returning zero milliseconds as I was calling it while inside the update function. So instead to access delta_time I used the update function in game and used parameters for gametime adding the pointer time to the function and passed that into my players updatePosition function. Now my character moves based on time I was able to run it at the same speed on my computer aswell as my laptop.
+I was trying to use a private object inside of the game class, this resulted in delta_time returning zero milliseconds as I was calling it while inside the update function. So instead to access delta_time I used the update function in game and used parameters time as a pointer to delta_time and passed that into my players updatePosition function. Now my character moves based on time I was able to run it at the same speed on my computer aswell as my laptop.
 
 Now I can start working on the snake body. My current plan is to save the previous position of the player and other parts of the snake 
 so that every update they move the previous position. In theory this means the snake body should follow the next part along starting
