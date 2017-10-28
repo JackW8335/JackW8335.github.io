@@ -18,5 +18,5 @@ I also added a game over game action so that the game can end. I orignally tried
 There was also an attempt at making a score appear but so far appending a number to a char or string hasnt worked.
 
 
-![Snake]({{ "/assets/img/blog/snake.gif" | absolute_url }})
+![Snake]({{"/assets/img/blog/snake1.gif"| absolute_url }})
 
