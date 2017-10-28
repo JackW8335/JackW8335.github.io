@@ -15,7 +15,7 @@ I ended up making my own delta_time using the ASGE engines gametime, however I r
 
 I also added a game over game action so that the game can end. I orignally tried to make the array change size as fruit was consumed but with some research it sounds like I would have to move previous data to a new array and delete the old one. In the end I allocated 40 slots to an array holding all the playerBody information and made sure it can't go any further. Its slightly better than using the stack for everything just not the solution I orignally planned.
 
-There was also an attempt at making a score appear but so far appending a number to a char or string hasnt worked.
+There was also an attempt at making a score appear but so far appending a number to a char or string hasnt worked. I also have a fruit working I ended up adding that before the snake body as that was the condition for its growth in the game. I simply randomise the location when a collision occurs. The collide its when the x and y value of the player body are inside the sprite.
 
 
 ![Snake]({{"/assets/img/blog/snake1.gif"| absolute_url }})
