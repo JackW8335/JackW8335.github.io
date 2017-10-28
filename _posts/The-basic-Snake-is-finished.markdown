@@ -1,6 +1,6 @@
 ---
 layout: post          #important: don't change this
-title: "Finally-got-delta-time-working"
+title: "The basic snake is finished"
 date: 2017-10-28 12:42
 author: Jack Watson
 categories:
