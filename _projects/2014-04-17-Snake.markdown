@@ -1,12 +1,12 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+title:  "SNAKE"
+date:   2017-10-06 9:53:55
+author: Jack Watson
 categories:
-- project
-img: portfolio_05.jpg
-thumb: thumb02.jpg
+- Low Level Programming
+img: snake.jpg
+thumb: thumb01.jpg
 carousel:
 - single01.jpg
 - single02.jpg
