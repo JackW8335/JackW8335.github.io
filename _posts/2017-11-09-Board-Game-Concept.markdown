@@ -23,4 +23,3 @@ We also need to choose a map that allows for balanced play no matter the selecti
 it needs to fair otherwise certain player spawns will be at a disadvantage. As such are current objective is getting a working model so we
 can play test and iterate the game as soon as possible.
 
-![]({{ "/assets/img/blog/boardgames.jpg" | absolute_url }})
