@@ -5,7 +5,7 @@ date: 2017-11-14 13:26
 author: Jack Watson
 categories:
 - Play and Games            #important: leave this here
-img: boardgames.jpg       #place image (850x450) with this name in /assets/img/blog/
+img: boardgames.jpg       #place image (450x450) with this name in /assets/img/blog/
 thumb: boardgames.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
 ---
 
