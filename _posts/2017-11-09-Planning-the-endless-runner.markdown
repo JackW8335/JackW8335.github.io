@@ -14,5 +14,5 @@ thumb: endless_runner.jpg    #place thumbnail (70x70) with this name in /assets/
 The begin with a basic runner is a player jumping over or below obstacles while collecting coins or seeing how far one can go without stopping
 Instantly the obvious things to have are a player and obstacles class each with positions and sprites of there own.
 
-![UML]({{ "/assets/img/blog/endlessRunnerUML.jpg" | absolute_url }})
+![UML]({{ "/assets/img/blog/endlessRunnerUML.png" | absolute_url }})
 
