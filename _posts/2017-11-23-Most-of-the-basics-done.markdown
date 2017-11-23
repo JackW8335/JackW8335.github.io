@@ -1,6 +1,6 @@
 ---
 layout: post          #important: don't change this
-title: "Planning the endless runner"
+title: "Most of the basics done"
 date: 2017-11-14 13:26
 author: Jack Watson
 categories:
