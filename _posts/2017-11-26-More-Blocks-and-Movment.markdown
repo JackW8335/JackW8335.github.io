@@ -21,5 +21,5 @@ I intend to add:
 -A highscore save system and score system based on distance travelled
 -If possible I would also like to add a restart option
 
-![]({{ "/assets/img/blog/endlessRunner2.gif" | absolute_url }})
+![]({{ "/assets/img/blog/EndlessRunner2.gif" | absolute_url }})
 
