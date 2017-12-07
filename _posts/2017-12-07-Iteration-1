@@ -1,0 +1,41 @@
+---
+layout: post          #important: don't change this
+title: "Iteration 1"
+date: 2017-11-14 8:45
+author: Jack Watson
+categories:
+- Play and Games            #important: leave this here
+img: boardgames.jpg       #place image (450x450) with this name in /assets/img/blog/
+thumb: boardgames.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
+---
+
+<!--more-->
+We have updated the board with new textures and moved some of the resources to different tiles. We also decided during the process to make 
+spies cap at 3 as while there are 21 area's on our map there are only 5 regions. This means you can have a spy on 3/5 area's. Anymore would 
+one crowd the map and two reduce the chance of the case spawning else where to zero. 
+
+![New board]({{ "/assets/img/blog/boardGameIteration1.png" | absolute_url }})
+
+Speaking of cases we also printed of some basic case cards, each one with a cost for munitions, production and science. We have tried to 
+scale the costs around 5,10 and 15 for difficulty these grant different tiers of rewards of which are currency. Currency is used to 
+purchase more spies and solve crisis's which are need to win the game.
+
+![Basic Cards]({{ "/assets/img/blog/basicCard.png" | absolute_url }})
+
+We updated the symbols from the basic star, square and triangle to binoculars, a briefcase and a stopwatch. This is mostly for theme reasons
+the gameplay aspect of receiving a new bonus each turn remanis the same.
+
+We stopped one spy from being to powerful by making it unusable during a case. This adds more incentive to purchasing other spies to solve
+cases simultaneously. This is works with the tracking system which involves placing your spy token on the case card till it is discarded
+at the end of a phase (6 turns). We added this to keep track of who solved what case. Removing this would require us to replace that system.
+
+The tech tree orignally mentioned to add different playstyles has been dropped as it would add too many moving parts to a game that should
+be simple, atleast with the time constraints provided. So far focusing on the key aspects of the game e.g. movement, economy , player interaction,
+the final boss etc Has taken priority.
+
+Intelligence has become the resources mentioned above, munitions, production and science. These are used the solve the cases of which have
+there costs written on the card. However the ability to see whats coming has still remained. Every phase someone draws five cards and 
+everyone looks at one of the five, shuffles and passes it along until every player has one target. This is one of the engaging aspects of
+our game as no one knows if they have the same information as the others. This creates suspence and fits the theme well as information is
+free flowing and no one knows what others know.
+
