@@ -35,7 +35,7 @@ designs for refrence though:
 
 We made some folders with the spare pages :D.
 
-## H2 Playtesting
+## Playtesting
 We also did some playtesting which helped scale the difficulty we new amounts of players. We used two groups one with 2 and one with 3 
 players. What we found was that adding less cards to the draw from a total of 5 to 4 and reducing the number of failures to spawn a crisis from 2 to 1 helped make the game less harsh early on. If left alone this would have resulted in crisis's and most likely to high
 a difficulty curve early on. The rules were initially complicated for the new players but eventually once they started playing, with little guidance from us they got the hang of it.
