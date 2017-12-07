@@ -1,0 +1,33 @@
+---
+layout: post          #important: don't change this
+title: "Iteration2"
+date: 2017-12-07 8:45
+author: Jack Watson
+categories:
+- Play and Games            #important: leave this here
+img: boardgames.jpg       #place image (450x450) with this name in /assets/img/blog/
+thumb: boardgames.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
+---
+
+<!--more-->
+
+
+![The Final Almighty Board]({{ "/assets/img/blog/board.png" | absolute_url }})
+
+We made a few crisis cards using this layout
+![CRISIS]({{ "/assets/img/blog/crisisCard.png" | absolute_url }})
+
+We made each one cause three areas to turn into a third of the total cost which is around 15, as mentioned in the earlier post iteration1 
+there are three different prices used for difficulty and rewards scaling. The main difference between normal cases is that this requires
+currency which is a resource gathered from solving cases. When solved crisis's lead towards the victory condition, which is provided by..
+
+The boss card. We have designed a basic layout and called the first and only boss right now, the puppet master. He will require 1-2 crisis's
+to be solved ( we haven't really decided, think 1 because the game lasts to long otherwise).
+
+We tried making our own resource tokens but the paper wouldn't double side print and when we laminated to pieces placed back to back they split
+upon cutting them apart to get the individual tokens. We are going to go back to using basic dish counters and player tokens. Heres the 
+designs for refrence though:
+
+![It was interesting atleast]({{ "/assets/img/blog/Resources.png" | absolute_url }})
+
+We made some folders with the spare pages :D.
