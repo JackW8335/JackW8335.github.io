@@ -14,7 +14,8 @@ thumb: boardgames.jpg    #place thumbnail (70x70) with this name in /assets/img/
 
 ![The Final Almighty Board]({{ "/assets/img/blog/board.png" | absolute_url }})
 
-We made a few crisis cards using this layout
+We made a few crisis cards using this layout:
+
 ![CRISIS]({{ "/assets/img/blog/crisisCard.png" | absolute_url }})
 
 We made each one cause three areas to turn into a third of the total cost which is around 15, as mentioned in the earlier post iteration1 
