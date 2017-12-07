@@ -11,6 +11,8 @@ thumb: boardgames.jpg    #place thumbnail (70x70) with this name in /assets/img/
 
 <!--more-->
 
+We made a new board mainly with a new colour scheme. The binary background was abit silly so we made it a blue ocean instead. The colours
+were picked to make sure there easier to see.
 
 ![The Final Almighty Board]({{ "/assets/img/blog/board.png" | absolute_url }})
 
