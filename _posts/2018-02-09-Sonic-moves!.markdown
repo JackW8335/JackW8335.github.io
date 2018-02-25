@@ -1,7 +1,7 @@
 ---
 layout: post          #important: don't change this
 title: "Sonic Moves!"
-date: 17-02-2018
+date: 2018-02-09 10:33
 author: Jack Watson
 categories:
 - Game Engine Programming            #important: leave this here
