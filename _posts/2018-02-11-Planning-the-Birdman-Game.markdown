@@ -5,7 +5,7 @@ date: 2018-02-11 10:33
 author: Jack Watson
 categories:
 - Low Level Programming           #important: leave this here
-img: BirdmanPoster.jpg       #place image (850x450) with this name in /assets/img/blog/
+img: BirdManPoster.jpg       #place image (850x450) with this name in /assets/img/blog/
 thumb: BirdManPoster.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
 ---
 
