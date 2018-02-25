@@ -7,7 +7,7 @@ categories:
 -Low Level Programming           #important: leave this here
 
 img: BirdmanPoster.jpg       #place image (100x100) with this name in /assets/img/blog/
-thumb: BirdManPoster.jpg    #place thumbnail (10x10) with this name in /assets/img/blog/thumbs/
+thumb: BirdManPoster.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
 ---
 
 <!--more-->
