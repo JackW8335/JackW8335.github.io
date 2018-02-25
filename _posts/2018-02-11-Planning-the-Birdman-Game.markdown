@@ -1,7 +1,7 @@
 ---
 layout: post          #important: don't change this
 title: "Planning the Birdman Game"
-date: 2018-02-011 10:33
+date: 2018-02-11 10:33
 author: Jack Watson
 categories:
 - Low Level Programming           #important: leave this here
