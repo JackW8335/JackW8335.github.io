@@ -4,13 +4,13 @@
 title: UWEGAMES
 description: ""
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-
+exclude: [vendor]
 baseurl: /
 url: "https://jackw8335.github.io"
 
 
 # Build settings
-exclude: [vendor]
+
 highlighter: rouge
 markdown: kramdown
 kramdown:
