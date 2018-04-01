@@ -1,27 +1,28 @@
 ---
 layout: project
-title:  "SNAKE"
-date:   2017-10-06 9:53:55
-author: Jack Watson
+title:  "YOUR PROJECT NAME"
+date:   2018-04-01 10:16
+author: Jack watson
 categories:
-- Low Level Programming
+- project
 img: snake.jpg
-thumb: thumb01.jpg
+thumb: snake.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- snake1.gif
+- snake2.gif
+- snake3.gif
 tagged: Flat, UI, Development
 client: Wonder Corp.
-website: http://blacktie.co
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+####Snake PostMortem
+This version of snake simply renders the sprite of a square followed by multiple sprites of the same type that move to the previous location before the update occured. Eating the red fruit(apple) causes the score and body size of the snake to increase. For power ups the cold fruit slows the player down and the opposite occurs with the fire fruit, causing increasing speed. 
 
-some text and [here is possible to download the file in PDF][1]
+This project was before I gathered the use of smart pointers and vectors, as such memory allocation was more difficult using standard pointers. When consuming fruit there is a slight memory leak as the player increases in size.
 
-[1]:{{site.https://github.com/JackW8335/JackW8335.github.io/blob/master/assets/downloads/}}/downloads/snake-JackW8335-master.zip
- 
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+Here is the zip file for the project, just open it in Visual Studios 2017 and run the sln[snake-jackw8335-master.zip][1]
+
+[1]:{{site.JackW8335.github.io}}/assets/downloads/snake-JackW8335-master.zip 
+
+
