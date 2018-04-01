@@ -13,7 +13,6 @@ carousel:
 - EndlessRunner5.gif
 
 tagged: Flat, UI, Development
-client: Wonder Corp.
 ---
 #### Endless Runner PostMortem
 Jump over the obstacles if you hit a red block you die. get as far as you can. Sweet and simple. 
