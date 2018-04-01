@@ -34,6 +34,6 @@ Find as many pages as you can and make it to the highest floor.
 
 Here is the zip file for the project, just open it in Visual Studios 2017 and run the sln [birdman-the-game-teamrocket-master.zip][1]
 
-[1]:{{site.JackW8335.github.io}}/assets/downloads/birdman-the-game-teamrocket-JackW8335-master.zip 
+[1]:{{site.JackW8335.github.io}}/assets/downloads/birdman-the-game-teamrocket-master.zip 
 
 
