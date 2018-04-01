@@ -1,5 +1,5 @@
 ---
-layout: projectasd
+layout: project
 title:  "Birdman Inspired Game"
 date:   2018-04-01 10:47
 author: Jack watson
