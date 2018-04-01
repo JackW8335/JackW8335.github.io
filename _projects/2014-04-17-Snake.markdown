@@ -21,7 +21,7 @@ This project was before I gathered the use of smart pointers and vectors, as suc
 
 
 
-Here is the zip file for the project, just open it in Visual Studios 2017 and run the sln[snake-jackw8335-master.zip][1]
+Here is the zip file for the project, just open it in Visual Studios 2017 and run the sln [snake-jackw8335-master.zip][1]
 
 [1]:{{site.JackW8335.github.io}}/assets/downloads/snake-JackW8335-master.zip 
 
