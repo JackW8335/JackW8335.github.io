@@ -20,7 +20,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 some text and [here is possible to download the file in PDF][1]
 
-[1]:{{site. JackW8335.github.io}}/assets/downloads/snake-JackW8335-master.zip 
+[1]:{{site.JackW8335.github.io}}/assets/downloads/snake-JackW8335-master.zip 
 
 
 ####Our Proposal
