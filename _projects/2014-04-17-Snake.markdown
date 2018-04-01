@@ -9,12 +9,11 @@ img: snake.jpg
 thumb: snake.jpg
 carousel:
 - snake1.gif
-- snake2.gif
-- snake3.gif
+
 tagged: Flat, UI, Development
 client: Wonder Corp.
 ---
-####Snake PostMortem
+#### Snake PostMortem
 This version of snake simply renders the sprite of a square followed by multiple sprites of the same type that move to the previous location before the update occured. Eating the red fruit(apple) causes the score and body size of the snake to increase. For power ups the cold fruit slows the player down and the opposite occurs with the fire fruit, causing increasing speed. 
 
 This project was before I gathered the use of smart pointers and vectors, as such memory allocation was more difficult using standard pointers. When consuming fruit there is a slight memory leak as the player increases in size.
