@@ -8,7 +8,9 @@ categories:
 img: snake.jpg
 thumb: snake.jpg
 carousel:
-
+- snake1.gif
+- snake2.gif
+- snake3.gif
 tagged: Flat, UI, Development
 client: Wonder Corp.
 ---
