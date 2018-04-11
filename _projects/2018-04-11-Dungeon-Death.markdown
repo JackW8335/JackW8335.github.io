@@ -29,7 +29,7 @@ An endless, horror, dungeon exploration game
 
 Venture through the dungeon defeat the beasts that lurk inside and earn your freedom.
 
-Here is the zip file for the project, just open it in Visual Studios 2017 and run the sln [Dungeon_Death][1]
+Here is the zip file for the project, just extract the zip and run the exe inside Release(x86) in the builds folder [Dungeon_Death][1]
 
 [1]:{{site.JackW8335.github.io}}/assets/downloads/Dungeon_Death.zip 
 
