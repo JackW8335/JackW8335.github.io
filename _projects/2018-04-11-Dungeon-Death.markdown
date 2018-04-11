@@ -16,11 +16,10 @@ carousel:
 tagged: Flat, UI, Development
 ---
 #### Dungeon Death PostMortem
-There were some struggles with memory allocation when it came to placing enemies in rooms but eventually I got my head around using 
-the .get() function more for unique pointer when creating getters, got stuck in using std::move for a time. My ascii art doesnt fit the panels
-but I like the extra detail provided by ascii artists found online so I kept them. The main image in the player panel is a crusader
-from the Darkest Dungeon. During development updating the ASGE engine caused errors with the key handler but changeing the value in the 
-static cast to use const fixed that.
+There were some struggles with memory allocation when it came to placing enemies in rooms but eventually I got my head around using the .get() function more for unique pointer when creating getters, got stuck in using std::move for a time. 
+
+My ascii art doesnt fit the panels
+but I like the extra detail provided by ascii artists found online so I kept them. The main image in the player panel is a crusader from the Darkest Dungeon. During development updating the ASGE engine caused errors with the key handler but changing the value in the static cast to use const fixed that.
 
 In future it would be interesting to make the dungeon bigger,  more random and data driven (which enemies already are by using 
 json).
