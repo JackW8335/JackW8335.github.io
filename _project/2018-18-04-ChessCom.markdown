@@ -1,0 +1,38 @@
+---
+layout: project
+title:  "ChessCom"
+date:   2018-04-18 10:34
+author: Jack watson
+categories:
+- Low Level Programming
+- ChessCom
+img: chessCom.jpg
+thumb: chessCom.jpg
+carousel:
+- ChessCome1.gif
+- ChessCom2.gif
+- ChessCom3.gif
+
+tagged: Flat, UI, Development
+---
+#### ChessCom PostMortem
+For my part in the project there were some difficulties with movement on an isometric map, at first I created a loop to act based
+on piece type. While this worked sometimes movement was buggy and as I was using exact positions and altering when we added the
+zoom feature was added it broke movement as the required distance for a move went up.
+
+So we decided to utlilised the line of sight code to create a refined movement system. Coding the win conditions was simple so not
+much there to mention.
+
+#### Onto the actual game
+ChessCom is a top-down, strategy, chess game. Players must choose 4 pieces out of a finite amount of piece score (Cant have 4 queens)
+After which they must venture through the fog of war and eradicate the other player to win. Either take the king or take all the
+pieces on the board.
+
+Take a king at your own risk, the king allows more pricey units in exhange for an enemy one-shot victory, so keep this piece
+well defended.
+
+Here is the zip file for the project, just extract the zip and run the exe for server, followed by two clients inside Release(x86) in the builds folder [ChessCom][1]
+
+[1]:{{site.JackW8335.github.io}}/assets/downloads/Test_Copy_ChessCom.zip 
+
+
