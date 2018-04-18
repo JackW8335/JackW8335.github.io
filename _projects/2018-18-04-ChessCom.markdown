@@ -9,7 +9,7 @@ categories:
 img: chessCom.jpg
 thumb: chessCom.jpg
 carousel:
-- ChessCome1.gif
+- ChessCom1.gif
 - ChessCom2.gif
 - ChessCom3.gif
 
