@@ -35,6 +35,6 @@ Here is the zip file for the project, just extract the zip and run the exe for s
 
 Note: Currently the game only works once, after that trying to connect to the server crashes the game.
 
-[1]:{{site.JackW8335.github.io}}/assets/downloads/Test_Copy_ChessCom.zip 
+[1]:{{site.JackW8335.github.io}}/assets/downloads/ChessCom.zip 
 
 
