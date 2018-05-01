@@ -22,8 +22,6 @@ In order to keep track of which collider belonged to which object ID's were give
 one player was made then the colliders would be assinged tag 0 as that was the size of the array before being made, arrays start at zero
 so this worked in our benefit.
 
-![Chess piece movement during testing]({{ "/assets/img/blog/chessMovement1.gif" | absolute_url }})
-
 ### UI Stuff
 For creating the UI for coloured boxes and the numbers inside them I reused the UI label and sprite classes from when we created the basic 
 main menu. The sprites are created but only instanciated up to player number, similarly the text is only set based on player number e.g.
