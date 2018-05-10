@@ -21,8 +21,5 @@ No powerups in this one like my previous snake. Worked for along time trying to 
 if you sit still you will be stuck inside the blue squares unable to move, do this too much and you'll be killed by the red squares.
 So try your best to manuaver around the blue(you can move while jumping).
 
-Here is the zip file for the project, just open it in Visual Studios 2017 and run the sln [endless-runner-game-JackW8335-master.zip][1]
-
-[1]:{{site.JackW8335.github.io}}/assets/downloads/endless-runner-game-JackW8335-master.zip 
 
 
