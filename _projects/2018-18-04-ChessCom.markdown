@@ -31,8 +31,6 @@ pieces on the board.
 Take a king at your own risk, the king allows more pricey units in exhange for an enemy one-shot victory, so keep this piece
 well defended.
 
-Here is the zip file for the project, just extract the zip and run the exe for server, followed by two clients inside Release(x86) in the builds folder [ChessCom][1]
 
-[1]:{{site.JackW8335.github.io}}/assets/downloads/ChessCom.zip 
 
 
