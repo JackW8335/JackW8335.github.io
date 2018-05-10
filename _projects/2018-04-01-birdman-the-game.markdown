@@ -32,8 +32,6 @@ Walk around the rotting theatre and collect pages of script to stave of your ins
 a ghostly figure representing your darker self will come looking for you. There are no second chances however, once caught you lose.
 Find as many pages as you can and make it to the highest floor.
 
-Here is the zip file for the project, just open it in Visual Studios 2017 and run the sln [birdman-the-game-teamrocket-master.zip][1]
 
-[1]:{{site.JackW8335.github.io}}/assets/downloads/birdman-the-game-teamrocket-master.zip 
 
 
