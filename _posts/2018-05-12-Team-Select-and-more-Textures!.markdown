@@ -1,6 +1,6 @@
 ---
 layout: post          #important: don't change this
-title: "Team Select"
+title: "Team Select and more Textures!"
 date: 2018-05-12 14:37
 author: Jack Watson
 categories:
