@@ -28,7 +28,7 @@ Efforts to update the texture assests have also been made as one can see below.
 ### Here what we have made so far
 ![]({{ "/assets/img/blog/GEP Player UI.gif" | absolute_url }})
 
-## Upgraded art assests
+## Upgraded art assets
 
 Gone are the times of grey blocks. Now we have slightly coloured backgrounds and platforms like seen above
 
