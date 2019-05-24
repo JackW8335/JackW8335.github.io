@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: UWEGAMES
+title: PORTFOLIO
 description: ""
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 exclude: [vendor]
