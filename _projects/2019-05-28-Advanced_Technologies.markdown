@@ -5,8 +5,8 @@ date:   2018-04-18 10:34
 author: Jack watson
 categories:
 - Advanced Technologies
-img: AT.jpg
-thumb: AT.jpg
+img: ATProceduralBuilding.gif
+thumb: ATProceduralBuilding.gif
 carousel:
 - ATProceduralBuilding.gif
 - ATDeepLearning.gif
