@@ -9,8 +9,7 @@ categories:
 img: SuperSmashPicture.jpg
 thumb: GEPFinalRelease.gif
 carousel:
-- ChessCom1.gif
-- GEP collisions and ui.gif
+- GEPCollisionsAndUI.gif
 - GEPFinalRelease.gif
 
 tagged: Flat, UI, Development
