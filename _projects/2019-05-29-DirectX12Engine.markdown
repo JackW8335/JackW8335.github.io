@@ -10,7 +10,7 @@ img: SuperSmashPicture.jpg
 thumb: GEPFinalRelease.gif
 carousel:
 - GEPCollisionsAndUI.gif
-- GEPFinalRelease.gif
+- FinalGEPRelease.gif
 
 tagged: Flat, UI, Development
 ---
